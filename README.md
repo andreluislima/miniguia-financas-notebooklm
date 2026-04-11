@@ -79,9 +79,6 @@ Embora existam milhares de moedas, algumas se destacam por sua relevância e vol
 - Carteiras Quentes (Hot Wallets): Conectadas à internet (aplicativos ou sites). Oferecem agilidade para trocas frequentes, mas são mais vulneráveis a ataques.
 - Carteiras Frias (Cold Wallets): Dispositivos físicos (hardware wallets) offline. São o método mais seguro para armazenamento de longo prazo, pois as chaves privadas nunca tocam a rede.
 
-### 2. Glossário de Conceitos Aprendidos
-*   **Wallet (Carteira):** Interface que gerencia suas chaves públicas (como seu PIX) e privadas (sua senha).
-
 #### Riscos e Segurança 
 ##### Principais Riscos
 - Volatilidade: Preços podem oscilar agressivamente em curtos períodos devido à oferta, demanda e notícias.
@@ -96,9 +93,49 @@ Embora existam milhares de moedas, algumas se destacam por sua relevância e vol
 #### Conclusão e Perspectivas
 O ecossistema das criptomoedas continua a amadurecer, integrando-se cada vez mais às finanças tradicionais por meio da tokenização de ativos reais (RWA) e da adoção institucional. Embora a tecnologia seja robusta e promissora para o futuro da economia digital, o sucesso do investidor depende de educação contínua, gestão de risco rigorosa e escolha de plataformas seguras e regulamentadas.
 
+### 2. Glossário de Conceitos Aprendidos
+*   Altcoin: É o termo usado para qualquer criptomoeda que não seja o Bitcoin, como o Ethereum, a Solana ou o Litecoin
+
+* Bitcoin (BTC): A primeira criptomoeda do mundo, criada em 2009 por Satoshi Nakamoto para ser um dinheiro digital e descentralizado
+
+* Blockchain: Imagine um "cartório digital" público e transparente; é a tecnologia que registra todas as transações em uma "corrente de blocos" que ninguém pode apagar ou alterar
+
+* Carteira (Wallet): É o aplicativo ou dispositivo onde você guarda suas chaves de acesso aos seus ativos
+Elas podem ser "Quentes" (Hot), quando estão conectadas à internet, ou "Frias" (Cold), quando ficam offline para maior segurança, como um pendrive em um cofre
+
+* Chave Privada: É a sua senha secreta
+  Nunca a compartilhe, pois quem tem a chave privada tem o controle total sobre o dinheiro
+
+* Chave Pública: É como o número da sua conta bancária ou o seu endereço de e-mail; você a divulga para que as pessoas possam lhe enviar moedas
+
+* Criptografia: O uso de algoritmos matemáticos avançados para proteger informações, garantindo que as transações sejam seguras e impossíveis de falsificar
+
+* DCA (Dollar Cost Averaging): No Brasil chamado de "Preço Médio", é a estratégia de comprar pequenas quantias regularmente para ignorar as subidas e descidas bruscas do mercado
+
+* Exchange (Corretora): Uma plataforma que funciona como uma "casa de câmbio digital", onde você usa seus Reais para comprar e vender criptomoedas
+
+* Mineração: O processo de usar o poder de computadores para resolver problemas matemáticos, validar transações na rede e, em troca, receber novas unidades da moeda como recompensa
+
+* Seed (Semente): Uma sequência de 12 ou 24 palavras que funciona como sua chave-mestra; se você perder seu celular ou carteira, são essas palavras que recuperam seu dinheiro
+
+* Smart Contracts (Contratos Inteligentes): Programas de computador que executam acordos automaticamente quando certas condições são cumpridas, sem precisar de um advogado ou juiz
+
+* Stablecoins: São moedas digitais "estáveis", pois seu valor está atrelado a um ativo real, geralmente o Dólar americano
+
+* Tokenização: O ato de transformar um ativo real (como um imóvel ou uma obra de arte) em pequenas frações digitais que podem ser negociadas facilmente no mundo todo
+
+* Volatilidade: Refere-se às variações bruscas e rápidas de preço; é o que faz o valor de uma criptomoeda subir ou descer muito em pouco tempo
+
+   
 ### 3. Prompts Reutilizáveis para Revisão
-*   *"Atue como um analista de segurança e revise este plano de backup de chaves privadas."*
- 
+*   O que é uma criptomoeda?
+*   Há alguma diferença a diferença entre uma criptomoeda e um dinheiro? Se sim, quais?
+*   Quais são os principais conceitos que devo entender bem sobre criptoativos?
+*   O que é Bitcoin?
+*   No ponto 6 sob a pergunta: "Quais são os principais conceitos que devo entender bem sobre criptoativos?", voce falou sobre volatilidade. Como uma pessoa que está entrando nesse mercado pode se prevenir ou tomar cuidados para não perder grandes somas de dinheiro em transações de criptos?
+*   Como faço a compra de um criptoativo e onde eu guardo ele?
+*   gere um glossário com os principais termos do mercado de cripto
+
 
 ---
 ✨ Desenvolvido por [André Luis Lima](https://github.com)
