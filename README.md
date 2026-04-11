@@ -32,7 +32,8 @@ Abaixo, os testes realizados para refinar as respostas da IA e os desafios encon
 ## 📖 Miniguia de Estudo
 
 ### 1. Resumo
-#### Definição do Conceito:Criptomoedas são ativos digitais emitidos e transacionados exclusivamente em ambiente virtual. Ao contrário das moedas fiduciárias (como o Real ou o Dólar), elas não dependem de uma autoridade central para sua emissão ou validação.
+#### Definição do Conceito:
+* Criptomoedas são ativos digitais emitidos e transacionados exclusivamente em ambiente virtual. Ao contrário das moedas fiduciárias (como o Real ou o Dólar), elas não dependem de uma autoridade central para sua emissão ou validação.
 
 *  **Funções Principais: Para serem consideradas moedas, esses ativos buscam cumprir três funções:
 - Meio de troca: Facilitar transações comerciais.
