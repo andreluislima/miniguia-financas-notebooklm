@@ -33,16 +33,17 @@ Abaixo, os testes realizados para refinar as respostas da IA e os desafios encon
 
 ### 1. Resumo
 #### Definição do Conceito:
-* Criptomoedas são ativos digitais emitidos e transacionados exclusivamente em ambiente virtual. Ao contrário das moedas fiduciárias (como o Real ou o Dólar), elas não dependem de uma autoridade central para sua emissão ou validação.
+Criptomoedas são ativos digitais emitidos e transacionados exclusivamente em ambiente virtual. Ao contrário das moedas fiduciárias (como o Real ou o Dólar), elas não dependem de uma autoridade central para sua emissão ou validação.
 
-*  **Funções Principais: Para serem consideradas moedas, esses ativos buscam cumprir três funções:
+#### Funções Principais: 
+Para serem consideradas moedas, esses ativos buscam cumprir três funções:
 - Meio de troca: Facilitar transações comerciais.
 - Reserva de valor: Preservar o poder de compra no futuro.
 - Unidade de conta: Servir de parâmetro para precificar produtos (função ainda limitada pela volatilidade).
 
 *   **A Tecnologia Blockchain: O Alicerce:  O blockchain (cadeia de blocos) funciona como um "cartório digital" ou livro-razão público que registra todas as transações de forma cronológica e linear.
 
-*   ** Como funciona a estrutura
+#### Como funciona a estrutura
   - Blocos e Conexão: Cada bloco contém informações de transações e um identificador digital chamado hash. O hash de um bloco é gerado a partir de seus dados e do hash do bloco anterior, criando um encadeamento inquebrável.
   - Imutabilidade: Qualquer alteração em um bloco antigo mudaria seu hash, invalidando todos os blocos subsequentes. Isso torna o registro praticamente impossível de ser fraudado.
   - Descentralização: Cópias desse registro são mantidas simultaneamente por milhares de usuários (nós). Para derrubar a rede, seria necessário destruir todas as cópias existentes.
